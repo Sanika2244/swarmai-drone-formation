@@ -1,0 +1,807 @@
+[
+  {
+    "job_id": "0a9cc3b1-e737-473e-833f-075c71d34ea6",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\0a9cc3b1-e737-473e-833f-075c71d34ea6_swarmai logo.png",
+    "targets_file": "data\\drone_targets_0a9cc3b1-e737-473e-833f-075c71d34ea6_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-23T05:52:15.581091Z"
+  },
+  {
+    "job_id": "0b6a9ee6-9566-49a3-984c-25834be0a201",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\0b6a9ee6-9566-49a3-984c-25834be0a201_swarmai logo.png",
+    "targets_file": "data\\drone_targets_0b6a9ee6-9566-49a3-984c-25834be0a201_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-23T05:57:10.726445Z"
+  },
+  {
+    "job_id": "7fad3b25-f1bf-49d6-b3fc-047c38bf2b05",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\7fad3b25-f1bf-49d6-b3fc-047c38bf2b05_swarmai logo.png",
+    "targets_file": "data\\drone_targets_7fad3b25-f1bf-49d6-b3fc-047c38bf2b05_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-23T06:32:38.638985Z"
+  },
+  {
+    "job_id": "4f615696-b28b-4c30-89c5-25e125a3332a",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\4f615696-b28b-4c30-89c5-25e125a3332a_swarmai logo.png",
+    "targets_file": "data\\drone_targets_4f615696-b28b-4c30-89c5-25e125a3332a_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T05:35:49.957896Z"
+  },
+  {
+    "job_id": "53f971fd-a1f8-4fd9-a63a-c9b6871585a8",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\53f971fd-a1f8-4fd9-a63a-c9b6871585a8_swarmai logo.png",
+    "targets_file": "data\\drone_targets_53f971fd-a1f8-4fd9-a63a-c9b6871585a8_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T05:36:46.661657Z"
+  },
+  {
+    "job_id": "c50de758-3184-4354-b523-9396c2da1f2f",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\c50de758-3184-4354-b523-9396c2da1f2f_swarmai logo.png",
+    "targets_file": "data\\drone_targets_c50de758-3184-4354-b523-9396c2da1f2f_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T05:38:49.642789Z"
+  },
+  {
+    "job_id": "48462e5e-b011-4504-b2b6-b3f3fcc25927",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\48462e5e-b011-4504-b2b6-b3f3fcc25927_swarmai logo.png",
+    "targets_file": "data\\drone_targets_48462e5e-b011-4504-b2b6-b3f3fcc25927_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T05:42:30.134843Z"
+  },
+  {
+    "job_id": "93024f5d-5bc1-4452-a193-7de8fbaeb37a",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\93024f5d-5bc1-4452-a193-7de8fbaeb37a_swarmai logo.png",
+    "targets_file": "data\\drone_targets_93024f5d-5bc1-4452-a193-7de8fbaeb37a_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T05:42:45.268834Z"
+  },
+  {
+    "job_id": "85fa3782-146c-46eb-ac1f-698ac75114af",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\85fa3782-146c-46eb-ac1f-698ac75114af_swarmai logo.png",
+    "targets_file": "data\\drone_targets_85fa3782-146c-46eb-ac1f-698ac75114af_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T05:46:54.218303Z"
+  },
+  {
+    "job_id": "6d9a26b2-e1d2-4345-89be-23e948613a5a",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\6d9a26b2-e1d2-4345-89be-23e948613a5a_swarmai logo.png",
+    "targets_file": "data\\drone_targets_6d9a26b2-e1d2-4345-89be-23e948613a5a_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T05:54:44.464357Z"
+  },
+  {
+    "job_id": "6cfc0603-8d46-43d7-aa31-1321377aaf2f",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\6cfc0603-8d46-43d7-aa31-1321377aaf2f_swarmai logo.png",
+    "targets_file": "data\\drone_targets_6cfc0603-8d46-43d7-aa31-1321377aaf2f_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T05:55:02.053508Z"
+  },
+  {
+    "job_id": "521a9f51-0c17-48f4-a014-ce0c37df6070",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\521a9f51-0c17-48f4-a014-ce0c37df6070_swarmai logo.png",
+    "targets_file": "data\\drone_targets_521a9f51-0c17-48f4-a014-ce0c37df6070_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T05:55:12.479847Z"
+  },
+  {
+    "job_id": "a725b4ef-3a1e-43f5-8382-4e584df8545f",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\a725b4ef-3a1e-43f5-8382-4e584df8545f_swarmai logo.png",
+    "targets_file": "data\\drone_targets_a725b4ef-3a1e-43f5-8382-4e584df8545f_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T06:03:06.463003Z"
+  },
+  {
+    "job_id": "5d228eb8-58d3-41a6-8433-2536834d346b",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\5d228eb8-58d3-41a6-8433-2536834d346b_swarmai logo.png",
+    "targets_file": "data\\drone_targets_5d228eb8-58d3-41a6-8433-2536834d346b_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T06:03:21.190062Z"
+  },
+  {
+    "job_id": "9a492df0-e002-4324-85cd-784b61e55eaa",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\9a492df0-e002-4324-85cd-784b61e55eaa_swarmai logo.png",
+    "targets_file": "data\\drone_targets_9a492df0-e002-4324-85cd-784b61e55eaa_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T06:03:39.684538Z"
+  },
+  {
+    "job_id": "9c217d10-6959-441d-b5f6-1635a8905a24",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\9c217d10-6959-441d-b5f6-1635a8905a24_swarmai logo.png",
+    "targets_file": "data\\drone_targets_9c217d10-6959-441d-b5f6-1635a8905a24_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T06:04:42.257522Z"
+  },
+  {
+    "job_id": "323813b6-8d6e-4f08-9523-5ac9c0c63811",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\323813b6-8d6e-4f08-9523-5ac9c0c63811_swarmai logo.png",
+    "targets_file": "data\\drone_targets_323813b6-8d6e-4f08-9523-5ac9c0c63811_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T06:39:56.586549Z"
+  },
+  {
+    "job_id": "fa643524-d432-4caa-a43c-16d9f4e8eb39",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\fa643524-d432-4caa-a43c-16d9f4e8eb39_swarmai logo.png",
+    "targets_file": "data\\drone_targets_fa643524-d432-4caa-a43c-16d9f4e8eb39_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T06:45:41.603274Z"
+  },
+  {
+    "job_id": "037c1ada-448b-44d6-ae7b-06e3f7d59b8e",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\037c1ada-448b-44d6-ae7b-06e3f7d59b8e_swarmai logo.png",
+    "targets_file": "data\\drone_targets_037c1ada-448b-44d6-ae7b-06e3f7d59b8e_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T06:46:40.744336Z"
+  },
+  {
+    "job_id": "cc22c79f-aba3-4a29-9e7a-35a5833f377c",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\cc22c79f-aba3-4a29-9e7a-35a5833f377c_swarmai logo.png",
+    "targets_file": "data\\drone_targets_cc22c79f-aba3-4a29-9e7a-35a5833f377c_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T06:46:53.075666Z"
+  },
+  {
+    "job_id": "d9c54b86-c32a-459c-b734-4a6b0e394241",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\d9c54b86-c32a-459c-b734-4a6b0e394241_swarmai logo.png",
+    "targets_file": "data\\drone_targets_d9c54b86-c32a-459c-b734-4a6b0e394241_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T06:49:47.283929Z"
+  },
+  {
+    "job_id": "818bad22-6713-4fc9-a8d6-e8bafeeafa73",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\818bad22-6713-4fc9-a8d6-e8bafeeafa73_swarmai logo.png",
+    "targets_file": "data\\drone_targets_818bad22-6713-4fc9-a8d6-e8bafeeafa73_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T07:00:44.241654Z"
+  },
+  {
+    "job_id": "380d23db-65b1-44cf-a40f-7bc701b3f596",
+    "filename": "swarmai logo.png",
+    "image_saved": "data\\380d23db-65b1-44cf-a40f-7bc701b3f596_swarmai logo.png",
+    "targets_file": "data\\drone_targets_380d23db-65b1-44cf-a40f-7bc701b3f596_swarmai logo.png.npy",
+    "coords": [
+      [
+        2.932331085205078,
+        0.0,
+        1.0
+      ],
+      [
+        10.0,
+        7.441860198974609,
+        1.0
+      ],
+      [
+        5.263157844543457,
+        6.046511650085449,
+        1.0
+      ],
+      [
+        1.2030075788497925,
+        5.813953876495361,
+        1.0
+      ],
+      [
+        0.0,
+        10.0,
+        1.0
+      ]
+    ],
+    "status": "completed",
+    "timestamp": "2025-10-28T07:01:35.066091Z"
+  }
+]
